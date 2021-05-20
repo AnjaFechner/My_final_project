@@ -64,17 +64,13 @@ Some interesting features:
 For a practical use, we take 3 books from the New York Bestseller list of 2021 and show what our model calculated.
 
 The 3 books with the 3 features:
+
+
 ![test_books](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/test_books.jpg)
 
-
-
-
-
-
-
-
-
 The result of the model:
+
+
 ![test_result](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/test_result.jpg)
 
 The jupyter notebook files:
