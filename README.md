@@ -2,7 +2,7 @@
 ## Final Bootcamp Project
 *Anja Fechner*
 
-### Mai 2021*
+### Mai 2021
 ***
 ![titel_bild](https://github.com/AnjaFechner/My_final_project/tree/main/pictures/titel_bild.png)
 
