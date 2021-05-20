@@ -4,8 +4,8 @@
 
 ### Mai 2021*
 ***
-![titel_bild](https://github.com/AnjaFechner/My_final_project/tree/main/pictures/titel_bild.jpg)
-![creditcards]
+![titel_bild](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/titel_bild.jpg)
+
 Project collecting, exploring, evaluate and visualize the data and make a predict with the dataset by using the Random Forest model. After that 
 
 
@@ -28,7 +28,7 @@ Now, she wants to add a new category to the own channel. She wants to write abou
 That are around 81 books per year. She ask us, a media agency, for help. She needs a model to help her identify books that will be made into films.
 But the model should be easy to use and of course, the data should ideally be available free of charge.
 
-![books_movies_NA](https://github.com/AnjaFechner/My_final_project/tree/main/pictures/books_movies_NA.jpg)
+![books_movies_NA](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/books_movies_NA.jpg)
 
 
 ## The Data 
@@ -58,16 +58,16 @@ But the huge imbalance in the data set and the low amount of features prevents t
 
 
 Overview of books (color: orange) and book adaptions (color: brown):
-![Step_1](https://github.com/AnjaFechner/My_final_project/pictures/Step_1.jpg)
+![Step_1](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/Step_1.jpg)
 
 Some interesting features:
 For a practical use, we take 3 books from the New York Bestseller list of 2021 and show what our model calculated.
 
 The 3 books with the 3 features:
-![test_books](https://github.com/AnjaFechner/My_final_project/tree/main/pictures/test_books.jpg)
+![test_books](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/test_books.jpg)
 
 The result of the model:
-![test_result](https://github.com/AnjaFechner/My_final_project/tree/main/pictures/test_result.jpg)
+![test_result](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/test_result.jpg)
 
 The jupyter notebook files:
 *Please note that the csv-xlsx files are linked to the jupyter notebooks*
@@ -75,28 +75,28 @@ The jupyter notebook files:
 The files are divided into 8 different steps.
 
 - [Step 1](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_1_web_scraping_nyt_bestseller/Step_1_Scraping_New_York_Times_Bestseller_Books_wikipedia.ipynb) 
-Step 1 includes the web scraping of the bestseller list of books (genre fiction/non-fiction).
+includes the web scraping of the bestseller list of books (genre fiction/non-fiction).
 
 - [Step 2](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_2_data_wrangeling/Step_2_Data_Wrangeling.ipynb)
-Step 2 shows the first data wrangling steps on the data set.
+shows the first data wrangling steps on the data set.
 
 - [Step 3](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_3_web_scraping_AMZ_error/Step_3_Web_Scraping_AMZ.ipynb)
-Step 3 shows the web scrapiing of the additional inforamtions for the books. This step failed.
+shows the web scrapiing of the additional inforamtions for the books. This step failed.
 
 - [Step 4](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_4_join_the_files_bs_books_and_rating/Step_4_join_files-books_and_ratings_for_books.ipynb)
-Step 4 shows the first joining of the dataset books and the data set with the additional features from different files and sources.
+shows the first joining of the dataset books and the data set with the additional features from different files and sources.
 
 - [Step 5](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_5_book_into_films/Step_5_Web_Scraping_book_into_movie.ipynb)
-Step 5 includes the web scraping of book titles that were filmed.
+includes the web scraping of book titles that were filmed.
 
 - [Step 6](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_6_join_bestseller_books_with_films/Step_6_Join_bestseller_books_with_films.ipynb)
-Step 6 is the joining of the book list with features and the book adaptions list.
+is the joining of the book list with features and the book adaptions list.
 
 - [Step 7](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_7_apply_NLP_and_Random_Forest/Step_7_NLP_and_Random_Forest.ipynb)
-During Step 7 the Random Forest model will apply first time.
+the Random Forest model will apply first time.
 
 - [Step 8](https://github.com/AnjaFechner/My_final_project/blob/main/files/Step_8_try_to_improve_the_model/Step_8_try_to_improve_the_model.ipynb)
-Step 8 includes options to improve the model.
+includes options to improve the model.
 
 
 ## Review
