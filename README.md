@@ -69,6 +69,11 @@ The 3 books with the 3 features:
 
 
 
+
+
+
+
+
 The result of the model:
 ![test_result](https://github.com/AnjaFechner/My_final_project/blob/main/pictures/test_result.jpg)
 
